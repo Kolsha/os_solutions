@@ -58,4 +58,9 @@ void dslist_free(DLList *list);
 void dslist_foreach(DLList *list,
                     void (*func)(Pointer data, Pointer user_data), Pointer user_data);
 
+
+
+
+char * read_line();
+
 #endif
