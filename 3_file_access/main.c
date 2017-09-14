@@ -11,13 +11,13 @@ int main (int argc, char **argv){
     printf("effective user ID %ld \n", geteuid());
 
     if (argc != 2) {
-        perror("Need file");
+        fprintf(stderr, "Need file");
         return EXIT_FAILURE;
     }
 
     char *file_name = argv[1];
     if(file_name == NULL){
-        perror("Nulled file name");
+        fprintf(stderr, "Nulled file name");
         return EXIT_FAILURE;
     }
     FILE * fs = fopen(file_name, "r");

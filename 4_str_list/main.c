@@ -22,7 +22,7 @@ int main() {
     for(;;){
         char *tmp_str = read_line();
         if(tmp_str == NULL){
-            perror("Read error, view list");
+            fprintf(stderr, "Read error, view list");
             break;
         }
         if(0 == strcmp(tmp_str, ".")){
@@ -37,7 +37,7 @@ int main() {
     }
 
     if(list == NULL){
-        perror("Empty list, exit");
+        fprintf(stderr, "Empty list, exit");
         return EXIT_FAILURE;
     }
     system("clear");

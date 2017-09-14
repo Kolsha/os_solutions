@@ -21,7 +21,7 @@ int main() {
 
     char *strTime = ctime(&rawtime); //equivalent to asctime(localtime(t))
     if(strTime == NULL) {
-        perror("Cannot convert time to string");
+        fprintf(stderr, "Cannot convert time to string");
         return EXIT_FAILURE;
     }
 

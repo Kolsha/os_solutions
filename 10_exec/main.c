@@ -9,7 +9,7 @@
 
 int main (int argc, char **argv){
     if(argc < 2) {
-        perror("Enter programm's name, which you want to execute\n");
+        fprintf(stderr, "Enter programm's name, which you want to execute\n");
         return EXIT_FAILURE;
     }
 
