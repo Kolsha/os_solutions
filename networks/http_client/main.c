@@ -144,7 +144,3 @@ int main() {
     return 0;
 }
 
-/*
- * nibir2@gmail.com
- * Парыгин Александр
- */
