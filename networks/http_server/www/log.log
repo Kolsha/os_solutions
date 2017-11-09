@@ -1,0 +1,3346 @@
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET /sdfsdf HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET /sdfsdf HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.195723111.1508481009
+
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.774701583.1508482348
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.774701583.1508482348
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.774701583.1508482348
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.774701583.1508482348
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1685358037.1508483029
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1685358037.1508483029
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1685358037.1508483029
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1685358037.1508483029
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1441898602.1508483145
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1441898602.1508483145
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1441898602.1508483145
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1441898602.1508483145
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.585238169.1508483185
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.585238169.1508483185
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.585238169.1508483185
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.585238169.1508483185
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1142955732.1508483461
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1142955732.1508483461
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1142955732.1508483461
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1843729520.1508481009; _gid=GA1.4.1142955732.1508483461
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.213430147.1508405906
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.213430147.1508405906
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.213430147.1508405906
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.213430147.1508405906
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.774360618.1508484638; _gid=GA1.4.458338960.1508484638
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: */*
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /favicon.ico HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Save-Data: on
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; MI 5s Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; MI 5s Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Save-Data: on
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; MI 5s Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Save-Data: on
+Accept: */*
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; MI 5s Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Save-Data: on
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /favicon.ico HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; MI 5s Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile Safari/537.36
+Save-Data: on
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: */*
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://10.9.87.4:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 10.9.87.4:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: _ga=GA1.4.962057622.1508484886; _gid=GA1.4.1570840554.1508484886
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.948297765.1508484616
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 10.9.87.4:1234
+User-Agent: Mozilla/5.0 (Android 6.0; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 10.9.87.4:1234
+User-Agent: Mozilla/5.0 (Android 6.0; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://10.9.87.4:1234/
+DNT: 1
+Connection: keep-alive
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 10.9.87.4:1234
+User-Agent: Mozilla/5.0 (Android 6.0; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://10.9.87.4:1234/
+DNT: 1
+Connection: keep-alive
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 10.9.87.4:1234
+User-Agent: Mozilla/5.0 (Android 6.0; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+Accept: */*
+Accept-Language: ru,ru-RU;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://10.9.87.4:1234/
+DNT: 1
+Connection: keep-alive
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1640840408.1508854898
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+HEAD / HTTP/1.1
+Accept: */*
+User-Agent: insomnia/4.2.0
+host: 127.0.0.1:1234
+accept-encoding: gzip, deflate
+content-type: multipart/form-data; boundary=--------------------------357577684207102209193673
+content-length: 0
+Connection: keep-alive
+
+GET / HTTP/1.1
+Accept: */*
+User-Agent: insomnia/4.2.0
+host: 127.0.0.1:1234
+accept-encoding: gzip, deflate
+content-type: multipart/form-data; boundary=--------------------------990879551326285754640879
+content-length: 0
+Connection: keep-alive
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1640840408.1508854898
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1640840408.1508854898
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1640840408.1508854898
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1640840408.1508854898
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.991030885.1508914749
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.572688143.1508914769
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1585736866.1508914804
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1585736866.1508914804
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1585736866.1508914804
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1585736866.1508914804
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1865957144.1508914805
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1865957144.1508914805
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1865957144.1508914805
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1865957144.1508914805
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1103495028.1508916300
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1103495028.1508916300
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1103495028.1508916300
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1103495028.1508916300
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.991030885.1508914749
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.991030885.1508914749
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.991030885.1508914749
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.991030885.1508914749
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.745399080.1508916303
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.745399080.1508916303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.745399080.1508916303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.745399080.1508916303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.579446595.1508916304
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.579446595.1508916304
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.579446595.1508916304
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.579446595.1508916304
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.842971842.1508916301
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.842971842.1508916301
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.842971842.1508916301
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.842971842.1508916301
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1871645512.1508916319
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1871645512.1508916319
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1871645512.1508916319
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 192.168.43.2:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://192.168.43.2:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1873103780.1508914769; _gid=GA1.4.1871645512.1508916319
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.0file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /favicon.ico HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+X-Compress: null
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1980205293.1508918528
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.290943393.1508920611
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.290943393.1508920611
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.290943393.1508920611
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.290943393.1508920611
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1646426934.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1646426934.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1646426934.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1646426934.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1938278616.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1938278616.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1938278616.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1938278616.1508920612
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1633100733.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1633100733.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1633100733.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1633100733.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1628163842.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1628163842.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1628163842.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1628163842.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1312265790.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1312265790.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1312265790.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1312265790.1508920613
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1356877397.1508920614
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1356877397.1508920614
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1356877397.1508920614
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.1356877397.1508920614
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.529805708.1508921133
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.529805708.1508921133
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.529805708.1508921133
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 172.16.1.41:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://172.16.1.41:1234/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.101878036.1508918528; _gid=GA1.4.529805708.1508921133
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.0
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1805334664.1508916305
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1805334664.1508916305
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1805334664.1508916305
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1805334664.1508916305
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.662400185.1508927569
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.662400185.1508927569
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.662400185.1508927569
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.662400185.1508927569
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1601335476.1508927619
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1601335476.1508927619
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1601335476.1508927619
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1601335476.1508927619
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2000102933.1508927956
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2000102933.1508927956
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /log.log HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2000102933.1508927956
+
+file: /home/kolsha/Projects/Network/http_server/www/log.log
+GET /index.html_ HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.857052040.1508928061
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html_
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/index.html_
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.857052040.1508928061
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/index.html_
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.857052040.1508928061
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/index.html_
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.857052040.1508928061
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /index.html_ HTTP/1.0
+file: /home/kolsha/Projects/Network/http_server/www/index.html_
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2143022396.1509373222
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2143022396.1509373222
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2143022396.1509373222
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2143022396.1509373222
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1998961485.1509373528
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1998961485.1509373528
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.868491808.1509373657
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.431889223.1509373658
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.431889223.1509373658
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.431889223.1509373658
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.431889223.1509373658
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.911458815.1509373997
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.911458815.1509373997
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.911458815.1509373997
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.911458815.1509373997
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1231/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.911458815.1509373997
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /efwewer HTTP/1.1
+Host: 127.0.0.1:1231
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.331758672.1509374007
+
+file: /home/kolsha/Projects/Network/http_server/www/efwewer
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2085376142.1509374104
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2085376142.1509374104
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2085376142.1509374104
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2085376142.1509374104
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.0
+Host: 127.0.0.1
+
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1432988563.1509522829
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1432988563.1509522829
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1432988563.1509522829
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1432988563.1509522829
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1432988563.1509522829
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://localhost:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://localhost:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://localhost:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://localhost:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.1.97037092.1509527931; _gid=GA1.1.215519027.1509527931
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1605547438.1509527893
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1605547438.1509527893
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1605547438.1509527893
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1605547438.1509527893
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.952271416.1509528078
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.952271416.1509528078
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.952271416.1509528078
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.952271416.1509528078
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.585221781.1509528079
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.585221781.1509528079
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.585221781.1509528079
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.585221781.1509528079
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1162120023.1509528165
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1162120023.1509528165
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1162120023.1509528165
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1162120023.1509528165
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+User-Agent: insomnia/5.9.6
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: multipart/form-data; boundary=------------------------X-INSOMNIA-BOUNDARY
+Content-Length: 49
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+User-Agent: insomnia/5.9.6
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: multipart/form-data; boundary=------------------------X-INSOMNIA-BOUNDARY
+Content-Length: 49
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1876271372.1509528167
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1876271372.1509528167
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1876271372.1509528167
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1876271372.1509528167
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1114895775.1509528302
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1114895775.1509528302
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1114895775.1509528302
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1114895775.1509528302
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+User-Agent: insomnia/5.9.6
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: multipart/form-data; boundary=------------------------X-INSOMNIA-BOUNDARY
+Content-Length: 49
+
+--------------------------X-INSOMNIA-BOUNDARY--
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1677982836.1509528303
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1677982836.1509528303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1677982836.1509528303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.1677982836.1509528303
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2113134381.1509532119
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2113134381.1509532119
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2113134381.1509532119
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2113134381.1509532119
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2113134381.1509532119
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /8 HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.581047140.1509532305
+
+file: /home/kolsha/Projects/Network/http_server/www/8
+GET /8 HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.208678484.1509532352
+
+file: /home/kolsha/Projects/Network/http_server/www/8
+GET /8 HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.2077408269.1509532382
+
+file: /home/kolsha/Projects/Network/http_server/www/8
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/js/bootstrap.min.js HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: */*
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/js/bootstrap.min.js
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/favicon.ico
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+User-Agent: insomnia/5.9.6
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: multipart/form-data; boundary=------------------------X-INSOMNIA-BOUNDARY
+Content-Length: 49
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET / HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/index.html
+GET /bootstrap/cover.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/cover.css
+GET /bootstrap/css/bootstrap.min.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept: text/css,*/*;q=0.1
+Referer: http://127.0.0.1:1234/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css
+GET /bootstrap/css/bootstrap.min.css.map HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.min.css.map
+GET /scss/utilities/_background.scss HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/scss/utilities/_background.scss
+GET /bootstrap/css/bootstrap.css HTTP/1.1
+Host: 127.0.0.1:1234
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga=GA1.4.1800975161.1508403465; _gid=GA1.4.139912907.1510134370
+
+file: /home/kolsha/Projects/Network/http_server/www/bootstrap/css/bootstrap.css
