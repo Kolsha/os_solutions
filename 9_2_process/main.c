@@ -30,3 +30,8 @@ int main (){
 
     return EXIT_SUCCESS;
 }
+
+/*
+ * http://ru.manpages.org/fork/2
+ * http://ru.manpages.org/execve/2
+ */
