@@ -5,8 +5,8 @@
 #define BYTES 1024
 
 typedef char bool;
-#define true 1;
-#define false 0;
+#define true 1
+#define false 0
 
 #define MIME_TYPE_FN "mime-types"
 
